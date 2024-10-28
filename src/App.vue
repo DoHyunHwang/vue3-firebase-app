@@ -3,7 +3,9 @@
 </template>
 
 <script setup>
-defineOptions({
-  name: 'App'
-});
+// import { onErrorCaptured } from 'vue';
+
+// onErrorCaptured(err => {
+//   console.log('###(onErrorCaptured) err: ', err);
+// });
 </script>
